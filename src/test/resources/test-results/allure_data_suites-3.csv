@@ -1,0 +1,4 @@
+"DESCRİPTİON","DURATİON İN MS","NAME","PARENT SUİTE","START TİME","STATUS","STOP TİME","SUB SUİTE","SUİTE","TEST CLASS","TEST METHOD"
+"Negatif login senaryosu","35583","NegatifLoginSenaryosu","","Tue Aug 20 00:01:01 TRT 2024","passed","Tue Aug 20 00:01:37 TRT 2024","","Cimri.com Login Page Tests","techcareer.test.LoginPageTest","negativeLoginTest"
+"Pozitif login senaryosu","33665","PozitifLoginSenaryosu","","Mon Aug 19 23:59:48 TRT 2024","passed","Tue Aug 20 00:00:21 TRT 2024","","Cimri.com Login Page Tests","techcareer.test.LoginPageTest","positiveLoginTest"
+"","34761","productTest()","","Tue Aug 20 00:02:05 TRT 2024","passed","Tue Aug 20 00:02:40 TRT 2024","","Cimri.com Home Page Tests","techcareer.test.HomePageTest","productTest"

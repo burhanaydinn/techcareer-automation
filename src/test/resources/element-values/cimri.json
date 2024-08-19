@@ -1,0 +1,187 @@
+[
+  {
+    "keyword": "GirisYapDropdown",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Giriş Yap']"
+  },
+  {
+    "keyword": "GirisYap",
+    "locatorType": "xpath",
+    "locatorValue": "//div[text()='Giriş Yap']"
+  },
+  {
+    "keyword": "MyAccount",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='Hesabım']"
+  },
+  {
+    "keyword": "KullaniciAdi",
+    "locatorType": "id",
+    "locatorValue": "email"
+  },
+  {
+    "keyword": "Sifre",
+    "locatorType": "id",
+    "locatorValue": "password"
+  },
+  {
+    "keyword": "LoginButton",
+    "locatorType": "css",
+    "locatorValue": "[class='sc-iCoGMd juPwmI']"
+  },
+  {
+    "keyword": "AllowAll",
+    "locatorType": "id",
+    "locatorValue": "onetrust-accept-btn-handler"
+  },
+  {
+    "keyword": "UserName",
+    "locatorType": "id",
+    "locatorValue": "account-signinsimple-email"
+  },
+  {
+    "keyword": "Password",
+    "locatorType": "id",
+    "locatorValue": "account-signinemailpassword-password"
+  },
+  {
+    "keyword": "PopUp",
+    "locatorType": "css",
+    "locatorValue": "[class='ml-popup-close close-popup']"
+  },
+  {
+    "keyword": "CimriLogo",
+    "locatorType": "css",
+    "locatorValue": "[alt='cimri-logo']"
+  },
+  {
+    "keyword": "SearchBoxBar",
+    "locatorType": "css",
+    "locatorValue": ".SearchBox_searchBarPlaceholder__2yBF3"
+  },
+  {
+    "keyword": "SearchInput",
+    "locatorType": "id",
+    "locatorValue": "search-input"
+  },
+  {
+    "keyword": "ProductSelect",
+    "locatorType": "xpath",
+    "locatorValue": "(//div[@id='cimri-product'])[2]"
+  },
+  {
+    "keyword": "ProductPrice",
+    "locatorType": "css",
+    "locatorValue": ".Offer_price__wzExN"
+  },
+  {
+    "keyword": "GoToStore",
+    "locatorType": "css",
+    "locatorValue": ".JumpButton_button__CppBA"
+  },
+  {
+    "keyword": "StoreProductPrice",
+    "locatorType": "css",
+    "locatorValue": ".product-price-old"
+  },
+  {
+    "keyword": "ProductName",
+    "locatorType": "css",
+    "locatorValue": "[class='product-title']"
+  },
+  {
+    "keyword": "MailAlert",
+    "locatorType": "xpath",
+    "locatorValue": "//li[text()='Geçerli bir email giriniz']"
+  },
+  {
+    "keyword": "PasswordAlert",
+    "locatorType": "xpath",
+    "locatorValue": "//li[text()='Şifre giriniz']"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "id",
+    "locatorValue": "xxxxx"
+  }
+]
