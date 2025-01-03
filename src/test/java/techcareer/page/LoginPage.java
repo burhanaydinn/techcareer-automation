@@ -12,6 +12,7 @@ public class LoginPage extends BaseTest {
 
     public LoginPage moveToLogin() {
         logger.info("Giriş ekranına gidiliyor.");
+        Methods.getInstance().waitSeconds(1);
         Methods.getInstance().click("GirisYapDropdown");
         Methods.getInstance().waitSeconds(3);
         Methods.getInstance().click("GirisYap");

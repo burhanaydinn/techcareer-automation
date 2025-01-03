@@ -124,5 +124,29 @@ public class ElementParser {
         public String toString() {
             return "Elements[" + "keyword=" + keyword + ",locatorType=" + locatorType + ",locatorValue=" + locatorValue + "]";
         }
+
+        public String getKeyword() {
+            return keyword;
+        }
+
+        public void setKeyword(String keyword) {
+            this.keyword = keyword;
+        }
+
+        public String getLocatorType() {
+            return locatorType;
+        }
+
+        public void setLocatorType(String locatorType) {
+            this.locatorType = locatorType;
+        }
+
+        public String getLocatorValue() {
+            return locatorValue;
+        }
+
+        public void setLocatorValue(String locatorValue) {
+            this.locatorValue = locatorValue;
+        }
     }
 }

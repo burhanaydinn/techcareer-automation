@@ -66,13 +66,13 @@
   },
   {
     "keyword": "ProductSelect",
-    "locatorType": "xpath",
-    "locatorValue": "(//div[@id='cimri-product'])[2]"
+    "locatorType": "css",
+    "locatorValue": ".Image_img__fZYuO"
   },
   {
     "keyword": "ProductPrice",
     "locatorType": "css",
-    "locatorValue": ".Offer_price__wzExN"
+    "locatorValue": ".Price_price__XrJDb"
   },
   {
     "keyword": "GoToStore",

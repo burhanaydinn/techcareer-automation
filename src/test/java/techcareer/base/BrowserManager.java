@@ -93,9 +93,9 @@ public class BrowserManager {
                 Chrome.getInstance().getChromeDriverService().stop();
             }
         } else if (Configuration.getInstance().getBrowserType().equalsIgnoreCase(BrowserType.FIREFOX.getBrowserName())) {
-            if (Firefox.getInstance().getGeckoDriverService().isRunning()) {
-                Firefox.getInstance().getGeckoDriverService().stop();
-            }
+            //if (Firefox.getInstance().getGeckoDriverService().isRunning()) {
+              //  Firefox.getInstance().getGeckoDriverService().stop();
+            //}
         }
     }
 }

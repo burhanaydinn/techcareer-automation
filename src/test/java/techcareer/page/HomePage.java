@@ -26,6 +26,7 @@ public class HomePage extends BaseTest {
     }
 
     public HomePage selectActivity(){
+        Methods.getInstance().waitSeconds(3);
         Methods.getInstance().findElement("ProductSelect");
         Methods.getInstance().click("ProductSelect");
         return this;
